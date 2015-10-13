@@ -7,7 +7,7 @@
 body {
 
         font-family: 'open sans', serif;
-       background-color: #D6D3C5;
+        background-color: #D6D3C5;
 
 }
 
@@ -22,9 +22,11 @@ header #logo {
 nav {
         float:right;
         padding-top: 50px;
-        
+        font-size: 20px;
 
 }
+
+a:hover {color:white;}
 
 
 
